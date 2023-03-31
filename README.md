@@ -1,1 +1,1 @@
-# sampleRepo
+Sample Repository for practicing Git
